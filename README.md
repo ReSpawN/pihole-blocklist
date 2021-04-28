@@ -2,7 +2,6 @@
 
 The blacklist is comprised of a combination of all decent blocklists I could find on the etherwebz.
 
-- https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 - https://v.firebog.net/hosts/static/w3kbl.txt
